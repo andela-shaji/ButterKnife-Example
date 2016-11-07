@@ -1,6 +1,6 @@
 # Using the Butter Knife Library
 
-The Butter Knife library, developer and maintained by Jake Wharton (Square Inc.), has annotations that help developers to instantiate the views from our activity or fragment. It also has annotations to handle events like onClick(), onLongClick(), etc.
+The Butter Knife library, developer and maintained by [Jake Wharton (Square Inc.)](https://github.com/JakeWharton), has annotations that help developers to instantiate the views from our activity or fragment. It also has annotations to handle events like onClick(), onLongClick(), etc.
 
 In the sample project we'll explore the steps involved to integrate the Butter Knife library.
 
